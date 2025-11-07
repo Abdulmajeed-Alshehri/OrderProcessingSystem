@@ -17,7 +17,9 @@ Each order contains :
 - Customer Name
 - Order Details
 - Status [waiting ,Done ,Canceled]
+
 Check if items are in stock before adding them
+
 Done and canceled orders stores in Order History list
 
 {- Abdulmajeed Alshehri -}
